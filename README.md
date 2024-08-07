@@ -1,4 +1,11 @@
 # Custom Duelingbook
+
+This fork aims to make the userscript easier for me to edit. I wish to add new macro functions, however it is a >3500 line script. I want to [split it into multiple files](https://stackoverflow.com/a/10492560) based on functionality. 
+
+This fork is designed for my own personal usage only. I do not wish to maintain this script for others. I'm just trying to make it easier for me to play Edison. :)
+
+<details>
+<summary> Old README.md </summary>
 ## Installation
 
 - Install [Tampermonkey](https://www.tampermonkey.net/) for your Browser.
@@ -133,3 +140,5 @@ Using the macro function you can do many things, for example:
     Send Dragoon Garnets | ${sendFromDeckToGY(Dark Magician~Red-Eyes Black Dragon)}
     -- Search
     Add Invo | ${addFromDeckToHand(Invocation)}
+
+</details>
